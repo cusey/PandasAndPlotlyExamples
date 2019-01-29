@@ -10,6 +10,15 @@
 * Pandas has built-in visualization features  
 * Pandas can work with data from a wide veriety or sources  
 
+## Context
+* Series
+* DataFrames
+* Missing Data
+* GroupBy
+* Merging, Joining, and Concatenating
+* Operations
+* Data Input and Output
+
 ## References      
 
 ## Contact      
