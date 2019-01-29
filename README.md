@@ -3,7 +3,7 @@
 ![CuseyHub](https://github.com/cusey/ImageForWiki/blob/master/Logos/CuseyHub_Banner_Small.jpg)    
 # Pandas Examples    
 
-## Introduction     
+## Introduction to Pandas      
 * Pandas is an open source library built on thop of NumPy  
 * It allows for fast analysis and data cleaning and prepation  
 * A lot of people like to call Pandas python version of excel or python version of R data frames   
