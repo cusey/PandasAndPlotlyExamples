@@ -11,8 +11,8 @@
 * Pandas can work with data from a wide veriety or sources  
 
 ## Context
-* **Series** - is a one-dimensional labeled array capable of holding data of any type (integer, string, float, python objects, etc.). The axis labels are collectively called index.
-* **DataFrames**
+* **Series** (VECTOR) - is a one-dimensional labeled array capable of holding data of any type (integer, string, float, python objects, etc.). The axis labels are collectively called index.
+* **DataFrames** (MATRIX) - A Data frame is a two-dimensional data structure, i.e., data is aligned in a tabular fashion in rows and columns.
 * **Missing Data**
 * **GroupBy**
 * **Merging, Joining, and Concatenating**
