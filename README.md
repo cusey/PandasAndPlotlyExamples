@@ -11,7 +11,17 @@
 * Pandas can work with data from a wide veriety or sources  
 
 ## Reference   
-* [tutorialspoint](https://www.tutorialspoint.com/python_pandas/python_pandas_dataframe.htm)    
+* [tutorialspoint](https://www.tutorialspoint.com/python_pandas/python_pandas_dataframe.htm)  
+
+## Install Instructions
+* [Aconda Pythn - Primary ](https://anaconda.org/)
+
+You will need to install the following Libraries to run **Notes - Data Input and Output** Jupyter Notebook. To install need to open the  Anaconda Prompt  
+
+* conda install sqlachemy
+* conda install lxml
+* conda install html5lib
+* conda install BeautifulSoup4
 
 ## Context
 * **Series** (VECTOR) - is a one-dimensional labeled array capable of holding data of any type (integer, string, float, python objects, etc.). The axis labels are collectively called index.
