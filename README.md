@@ -18,7 +18,7 @@
 
 You will need to install the following Libraries to run **Notes - Data Input and Output** Jupyter Notebook. To install need to open the  Anaconda Prompt  
 
-* conda install sqlachemy
+* conda install sqlalchemy
 * conda install lxml
 * conda install html5lib
 * conda install BeautifulSoup4
