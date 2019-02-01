@@ -10,8 +10,16 @@
 * Pandas has built-in visualization features  
 * Pandas can work with data from a wide veriety or sources  
 
+## Introduction to Plotly   
+Plotly's Python graphing library makes interactive, publication-quality graphs online. Examples of how to make line plots, scatter plots, area charts, bar charts, error bars, box plots, histograms, heatmaps, subplots, multiple-axes, polar charts, and bubble charts.
+
+## Introduction to Cufflinks    
+Cufflinks binds the power of plotly with the flexibility of pandas for easy plotting.
+
 ## Reference   
-* [tutorialspoint](https://www.tutorialspoint.com/python_pandas/python_pandas_dataframe.htm)  
+* [tutorialspoint](https://www.tutorialspoint.com/python_pandas/python_pandas_dataframe.htm)   
+* [Plotly - official](https://plot.ly/python/)    
+* [Cufflinks - github](https://github.com/santosjorge/cufflinks) 
 
 ## Install Instructions
 * [Aconda Pythn - Primary ](https://anaconda.org/)
