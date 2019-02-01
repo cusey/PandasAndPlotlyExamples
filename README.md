@@ -31,6 +31,11 @@ You will need to install the following Libraries to run **Notes - Data Input and
 * conda install html5lib
 * conda install BeautifulSoup4
 
+* pip install plotly
+* pip install cufflinks
+
+If you’re using Python 2.7.9 (or greater) or Python 3.4 (or greater), then PIP comes installed with Python by default.
+
 ## Context
 * **Series** (VECTOR) - is a one-dimensional labeled array capable of holding data of any type (integer, string, float, python objects, etc.). The axis labels are collectively called index.
 * **DataFrames** (MATRIX) - A Data frame is a two-dimensional data structure, i.e., data is aligned in a tabular fashion in rows and columns.
