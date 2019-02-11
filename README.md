@@ -1,7 +1,7 @@
 
 
 ![CuseyHub](https://github.com/cusey/ImageForWiki/blob/master/Logos/CuseyHub_Banner_Small.jpg)    
-# Pandas Examples    
+# Pandas and Plotly Examples    
 
 ## Introduction to Pandas      
 * Pandas is an open source library built on thop of NumPy  
@@ -13,12 +13,15 @@
 ## Introduction to Plotly   
 Plotly's Python graphing library makes interactive, publication-quality graphs online. Examples of how to make line plots, scatter plots, area charts, bar charts, error bars, box plots, histograms, heatmaps, subplots, multiple-axes, polar charts, and bubble charts.
 
+Another data visualizations is Geographical Plotting done on Choropleth Map with Plotly. Geographical plotting is usally challenging to due the various formats the data can come in. Matplotlib also has a basemap extension. 
+
 ## Introduction to Cufflinks    
 Cufflinks binds the power of plotly with the flexibility of pandas for easy plotting.
 
 ## Reference   
 * [tutorialspoint](https://www.tutorialspoint.com/python_pandas/python_pandas_dataframe.htm)   
-* [Plotly - official](https://plot.ly/python/)    
+* [Plotly - official](https://plot.ly/python/)  
+* [Plotly References - Official](https://plot.ly/python/reference/)  
 * [Cufflinks - github](https://github.com/santosjorge/cufflinks) 
 
 ## Install Instructions
